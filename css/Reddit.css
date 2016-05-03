@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+body {
+  background-color: bisque;
+  font-size: 20px;
+}
+
+#redditIMG {
+  width: 20%;
+  float: left;
+  margin-right: -10px;
+}
+
+#redditText {
+  width: 80%;
+  height: 140px;
+  margin: -15px 0 -15x 0;
+  padding: 0; 
+  float: right;
+}
+
+h2 {
+  margin: 5px;
+}
+
+
